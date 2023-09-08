@@ -1,0 +1,11 @@
+Pages\MainPage.class
+Pages\LogTextFormatter.class
+UItest\Hooks.class
+Pages\TopRatedPage.class
+Pages\ActorInfoPage.class
+Pages\MovieInfoPage.class
+UItest\Tests.class
+Pages\LoginPage.class
+Pages\BasePage.class
+Pages\ProfilePage.class
+Pages\SearchPage.class

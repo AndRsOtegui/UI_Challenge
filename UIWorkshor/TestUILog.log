@@ -1,0 +1,37 @@
+[2023-09-08 16:18:52] [INFO] [Pages.BasePage.goLogin] - ---------------------START TEST--------------------------------------
+[2023-09-08 16:18:53] [INFO] [Pages.BasePage.goLogin] - Login button clicked
+[2023-09-08 16:18:53] [INFO] [Pages.BasePage.wrongCredentials] - Enter wrong username
+[2023-09-08 16:18:53] [INFO] [Pages.BasePage.wrongCredentials] - Enter wrong password
+[2023-09-08 16:18:54] [INFO] [Pages.BasePage.wrongCredentials] - Click on Login button
+[2023-09-08 16:18:54] [INFO] [Pages.BasePage.getTextTitle] - Saving selected movie title
+[2023-09-08 16:18:54] [INFO] [Pages.BasePage.getErrorMessages] - Verifying error message structure
+[2023-09-08 16:19:02] [INFO] [Pages.BasePage.goLogin] - ---------------------START TEST--------------------------------------
+[2023-09-08 16:19:02] [INFO] [Pages.BasePage.goLogin] - Login button clicked
+[2023-09-08 16:19:02] [INFO] [Pages.BasePage.enterCredentials] - Enter login page
+[2023-09-08 16:19:02] [INFO] [Pages.BasePage.enterCredentials] - Input username
+[2023-09-08 16:19:03] [INFO] [Pages.BasePage.enterCredentials] - Input password
+[2023-09-08 16:19:03] [INFO] [Pages.BasePage.enterCredentials] - Click on Login button
+[2023-09-08 16:19:03] [INFO] [Pages.BasePage.getLoggedIn] - Enter profile page
+[2023-09-08 16:19:11] [INFO] [Pages.BasePage.goTopRatedMovies] - ---------------------START TEST--------------------------------------
+[2023-09-08 16:19:11] [INFO] [Pages.BasePage.goTopRatedMovies] - Movies button in navbar clicked
+[2023-09-08 16:19:12] [INFO] [Pages.BasePage.goTopRatedMovies] - Clicked on Top Rated movies
+[2023-09-08 16:19:13] [INFO] [Pages.BasePage.filterActionGenre] - Activate action filter search
+[2023-09-08 16:19:13] [INFO] [Pages.BasePage.filterActionGenre] - Wait until all query's are run
+[2023-09-08 16:19:14] [INFO] [Pages.BasePage.filterActionGenre] - Choose random movie
+[2023-09-08 16:19:20] [INFO] [Pages.BasePage.searchMovie] - ---------------------START TEST--------------------------------------
+[2023-09-08 16:19:21] [INFO] [Pages.BasePage.searchMovie] - Enter movie search
+[2023-09-08 16:19:22] [INFO] [Pages.BasePage.searchMovie] - Search movie
+[2023-09-08 16:19:22] [INFO] [Pages.BasePage.getFirstResult] - Select first movie
+[2023-09-08 16:19:29] [INFO] [Pages.BasePage.goTopRatedMovies] - ---------------------START TEST--------------------------------------
+[2023-09-08 16:19:29] [INFO] [Pages.BasePage.goTopRatedMovies] - Movies button in navbar clicked
+[2023-09-08 16:19:30] [INFO] [Pages.BasePage.goTopRatedMovies] - Clicked on Top Rated movies
+[2023-09-08 16:19:31] [INFO] [Pages.BasePage.orderAscendingReleaseDate] - Sorting by ascending release date
+[2023-09-08 16:19:31] [INFO] [Pages.BasePage.orderAscendingReleaseDate] - Wait until all query's are run
+[2023-09-08 16:19:32] [INFO] [Pages.BasePage.orderAscendingReleaseDate] - Verifying order: 1897 <? 1902 <? 1903 <? 1915
+[2023-09-08 16:19:32] [INFO] [Pages.BasePage.orderAscendingReleaseDate] - Is in ascending order
+[2023-09-08 16:19:38] [INFO] [Pages.BasePage.goToMovie] - ---------------------START TEST--------------------------------------
+[2023-09-08 16:19:40] [INFO] [Pages.BasePage.goToMovie] - Choose random movie
+[2023-09-08 16:19:40] [INFO] [Pages.BasePage.getMovieTittle] - Getting movie title
+[2023-09-08 16:19:40] [INFO] [Pages.BasePage.selectActor] - Getting number of bill actor cast
+[2023-09-08 16:19:41] [INFO] [Pages.BasePage.selectActor] - Select one of the actors
+[2023-09-08 16:19:41] [INFO] [Pages.BasePage.searchMovieActorTimeline] - Searching for movie title in actors timeline

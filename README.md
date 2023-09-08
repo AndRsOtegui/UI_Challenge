@@ -9,7 +9,7 @@ For this exercise, Selenium 4.11 was used as the browser driver, Maven 3.11 for 
 
 ### User login:
 
-I began by identifying the locators with Xpath for the elements on the webpage, ensuring I could interact with them effectively. Using these locators, I implemented a boolean verification step to confirm that the script was  on the profile page. This initial exercise served as a refresher, allowing me to reinforce the fundamental concepts covered in in the GUI training, i decide to go with Xpath since its a little more visual for me to remember the logic of the locator."
+I began by identifying the locators with Xpath for the elements on the webpage, ensuring I could interact with them effectively. Using these locators, I implemented a boolean verification step to confirm that the script was  on the profile page. This initial exercise served as a refresher, allowing me to reinforce the fundamental concepts covered in in the GUI training, i decide to go with Xpath since its a little more visual for me to remember the logic of the locator.
 
 ### Fail login:
 

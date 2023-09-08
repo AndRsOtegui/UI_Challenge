@@ -40,3 +40,5 @@ This scenario was resolved using the same query wait technique as the movie filt
 :⚫ The 'js' object is a JavaScriptExecutor used for scrolling down and avoiding click interception errors caused by the cookie banner that appears on some pages.
 
 :⚫ randomInt was used to introduce randomness in the necessary scenarios for selecting 'any' object according to the scenario to ensure that the test case is scalable and not hard-coded.
+
+:⚫ Report implementation using Surefire, path: target/surefire-reports/index.html
